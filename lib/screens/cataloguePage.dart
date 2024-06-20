@@ -17,7 +17,7 @@ class _CataloguepageState extends State<Cataloguepage> {
       length: 2,
       child: Scaffold(
         appBar: AppBar(
-          backgroundColor: prymaryColor,
+          backgroundColor: Colors.green,
           foregroundColor: Colors.white,
           title: Text("Catalogue"),
           centerTitle: true,
